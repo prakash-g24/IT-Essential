@@ -5,4 +5,4 @@ CI CD
 Conflunce
 Share Point
 API
-
+SDLC
